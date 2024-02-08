@@ -1,5 +1,6 @@
 # testeUnitarios
-Trabalho de Engenharia de Software 1 - Realizar teste unitário de uma aplicação (calculadora), de 3 a 5 unidades
+Trabalho de Engenharia de Software 1 - Realizar teste unitário de uma aplicação (calculadora), de 3 a 5 unidades<br />
+Nome: João Paulo Migliatti - 802534
 
 # Descrição da aplicação:
 A aplicação é uma calculadora básica, que realiza as operações de adição, subtração, multiplicação e divisão.
